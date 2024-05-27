@@ -1,7 +1,6 @@
 # JSCRIPT-330-Final-Project
 
-# Week 8 UPDATE: 
-I'm slightly behind where I planned to be at this point as I'm behind on assignments that are important to getting setup and making the project. I do have basic routes set up as well a mongo but currently there is no authentication and no finished routes. Once I'm caught up on assignments, I'll be able to more easily set up this project in time for the deadline.
+**Week 8 UPDATE:** I'm slightly behind where I planned to be at this point as I'm behind on assignments that are important to getting setup and making the project. I do have basic routes set up as well a mongo but currently there is no authentication and no finished routes. Once I'm caught up on assignments, I'll be able to more easily set up this project in time for the deadline.
 
 1. One of my hobbies is sewing and with that, I follow patterns to guide me in my projects. I find these patterns of personal blogs or websites such as Etsy but I don't have a good way of keeping track of all of my patterns that I'm working on or plan to make in the future. Although Etsy does have a purchase history tab, that only contains purchased from Etsy patterns and not any ones found anywhere else on the internet as well as other purchases I've made are also mixed in with that history so it isn't as compact and efficient as I'd like.
    
